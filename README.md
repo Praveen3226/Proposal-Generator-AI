@@ -50,8 +50,8 @@ This tool uses the **Google Gemini 2.0 Flash** model — a **large language mode
 ## 📦 Folder Structure
 
 proposal-generator-ai/
-│
-├── app.py # Main Streamlit application
-├── README.md # You are here 🚀
-├── requirements.txt # All dependencies
-└── ...
+-│
+-├── app.py # Main Streamlit application
+-├── README.md # You are here 🚀
+-├── requirements.txt # All dependencies
+-└── ...
