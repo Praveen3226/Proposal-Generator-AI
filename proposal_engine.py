@@ -8,7 +8,7 @@ import re
 
 
 # Setup Gemini API
-genai.configure(api_key="AIzaSyCObIxNQoZsf7IwvI-bcOS1vf-rt6-ZgY8")
+genai.configure(api_key="YOUR_API_KEY")
 
 # Generate proposal content using Gemini
 def generate_proposal_content(client_name, project_title, project_scope, timeline, budget):
