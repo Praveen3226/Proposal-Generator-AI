@@ -46,12 +46,3 @@ This tool uses the **Google Gemini 2.0 Flash** model — a **large language mode
 | Backend      | Python 3.x                |
 
 ---
-
-## 📦 Folder Structure
-
-proposal-generator-ai/
--│
--├── app.py # Main Streamlit application
--├── README.md # You are here 🚀
--├── requirements.txt # All dependencies
--└── ...
